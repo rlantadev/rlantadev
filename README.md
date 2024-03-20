@@ -8,7 +8,7 @@ Additionally, I am also interested in graphic design that I can use in my projec
 
 - 🔭 I’m currently working on basic C# projects. 
 - 🌱 I’m currently learning C# 
-- 📫 How to reach me: rlantadaghan@gmail.com or Discord 
+- 📫 How to reach me: rlantadev@gmail.com or Discord 
 
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rlanta) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rl4nta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dağhan-saydam-8433a12bb) 
