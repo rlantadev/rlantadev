@@ -17,7 +17,7 @@ Additionally, I am also interested in graphic design that I can use in my projec
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rlantadev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8)<br/>
 
 [![](https://visitcount.itsvg.in/api?id=rlantadev&icon=0&color=5)](https://visitcount.itsvg.in) 
 
